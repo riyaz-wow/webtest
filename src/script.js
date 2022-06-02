@@ -28,18 +28,7 @@ let moviesData = [
     imgUrl:
       "https://images.unsplash.com/photo-1555421689-43cad7100750?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEyfGFOY2FTME1pZERJfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500",
   },
-  {
-    title: "Cococ",
-    desc: "Some quick example text to build on the card title and make up the bulk of the card's content",
-    imgUrl:
-      "https://images.unsplash.com/photo-1600870187251-b55f9c574638?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE1fGFOY2FTME1pZERJfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500",
-  },
-  {
-    title: "Cococ",
-    desc: "Some quick example text to build on the card title and make up the bulk of the card's content",
-    imgUrl:
-      "https://images.unsplash.com/photo-1587931338382-aecda7e43025?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8YU5jYVMwTWlkREl8fGVufDB8fHx8&auto=format&fit=crop&w=500",
-  },
+  
 ];
 
 document.addEventListener("DOMContentLoaded", function () {
